@@ -1,1 +1,1 @@
-# Python-send-email
+# SendEmail-Python
